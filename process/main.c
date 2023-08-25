@@ -5,6 +5,8 @@ int main()
 {
     
     ProcessOn();
+    ProcessOn();
+    ProcessOn();
 
     return 0;
 }
